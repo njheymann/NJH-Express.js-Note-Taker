@@ -32,3 +32,7 @@ Use ```npm start``` in the terminal and then us http://localhost3001
 ![Screenshot 2023-08-06 125253](https://github.com/njheymann/NJH-Express.js-Note-Taker/assets/125000756/7920823e-18fd-4491-a4b1-2ba7d306ebbd)
 
 ![Screenshot 2023-08-06 125306](https://github.com/njheymann/NJH-Express.js-Note-Taker/assets/125000756/67141b79-0341-4d52-99e6-f19cf9a550c0)
+
+## Links
+Deployed heroku URL:  https://njh-note-taker-ef58b9349cd8.herokuapp.com/notes  
+Repo URL: https://github.com/njheymann/NJH-Express.js-Note-Taker
